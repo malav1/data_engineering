@@ -1,0 +1,7 @@
+For JSON:
+    Key/Value pairs separated by ':'.
+    Different pairs separated by ','.
+    Key is a string in double quotes.
+    Value can be string, boolean, another JSON object, an array or null.
+    JSON objects are surrounded in {}.
+    Arrays are surrounded in [].
